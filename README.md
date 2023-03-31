@@ -1,6 +1,6 @@
 # Scraping_of_currency
 
-Languages : Python__
+Languages : Python<br />
 Libraries : Pandas, Numpy, Scrapy, Subprocess
 
 
