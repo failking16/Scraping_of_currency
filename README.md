@@ -1,15 +1,13 @@
 # Scraping_of_currency
 
-Languages : Python
-
+Languages : Python__
 Libraries : Pandas, Numpy, Scrapy, Subprocess
 
 
 Scrapy is the library that can be used for web scrapping (taking values from sites)
 
 
-Main Scripts of this project : Main_code.py , facts.py , Scrapping2.py
-
+Main Scripts of this project : Main_code.py , facts.py , Scrapping2.py__
 Main DataBases               : Scraped.csv , output.csv
 
 
