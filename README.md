@@ -4,6 +4,10 @@ Languages : Python<br />
 Libraries : Pandas, Numpy, Scrapy, Subprocess
 
 
+Used libraries: <br />
+Scrapy is a library that is used to reach out 
+
+
 Scrapy is the library that can be used for web scrapping (taking values from sites)
 
 
