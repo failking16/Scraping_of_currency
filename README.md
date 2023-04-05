@@ -8,7 +8,10 @@ Used libraries: <br />
 Scrapy is a library that is used to reach out 
 
 
-Scrapy is the library that can be used for web scrapping (taking values from sites)
+Scrapy is the library that can be used for web scrapping (taking values from sites)<br />
+Subprocess is a library that can open command line and run particular code <br />
+Pandas is used for reading, editing, saving dataframes <br />
+Numpy is used for creating arrays and future manipulation <br />
 
 
 Main Scripts of this project : Main_code.py , facts.py , Scrapping2.py<br />
