@@ -21,6 +21,7 @@ def last_value():
     day = datetime.date.today()
     
     kf = pd.DataFrame({
+
         'Currency':np.array(df.iloc[:,1]),
         'Value in '+str(day):x,
         'Change in '+str(day):y
@@ -95,7 +96,6 @@ def update():
     
     df = pd.read_csv('scrapping\spiders\output.csv')
     cf = pd.read_csv('Scraped.csv')
-    
     cf = cf.drop('Unnamed: 0',axis=1)   
     
     #last_column = len(df.columns)-1

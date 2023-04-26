@@ -9,8 +9,7 @@ import facts as fc
 
 fc.update()
 
-print('What do you want?\n 1. Current values \n 2. Comparison \n 3. History of all values')
-x=int(input())
+x=int(input('What do you want?\n 1. Current values \n 2. Comparison \n 3. History of all values \n Choice : '))
 y=0
 
 if(x==1):
